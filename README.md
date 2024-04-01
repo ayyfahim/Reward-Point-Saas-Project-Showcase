@@ -16,15 +16,15 @@ It is a Laravel based Business Reward Point Management SAAS. It uses VueJs, Vuex
 <img src="/Source Code/public/images/site/visuals/customers.png" width="30%"></img>
 <img src="/Source Code/public/images/site/visuals/earn-points.png" width="30%"></img>
 <img src="/Source Code/public/images/site/visuals/rewards.png" width="30%"></img>
-<center>
+<p align="center">
   <img src="/Source Code/public/images/site/visuals/user-homepage.png" width="30%"></img>
-</center>
+</p>
 </br>
 <img src="/Source Code/public/images/site/visuals/clothing-home.png" width="49%"></img>
 <img src="/Source Code/public/images/site/visuals/gadget-home.png" width="49%"></img>
-<center>
+<p align="center">
   <img src="/Source Code/public/images/site/visuals/reseller-website.png" width="50%"></img>
-</center>
+</p>
 
 ---
 
