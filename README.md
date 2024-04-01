@@ -6,20 +6,20 @@ It is a Laravel based Business Reward Point Management SAAS. It uses VueJs, Vuex
 
 <br>
 
-## Screenshots:
-<img src="/store_front.png" width="18%"></img>
-<img src="/store_front_2.png" width="18%"></img>
-<img src="/homepage.png" width="18%"></img>
-<img src="/profile.png" width="18%"></img>
-<img src="/profile_w_sidebar.png" width="18%"></img>
-<img src="/product_page.png" width="18%"></img>
-<img src="/product_page_2_NestedAddons.png" width="18%"></img>
-<img src="/cart_1.png" width="18%"></img>
-<img src="/cart_2.png" width="18%"></img>
-<img src="/edit_profile.png" width="18%"></img>
-<img src="/guestmode.png" width="18%"></img>
-<img src="/scan_qr.png" width="18%"></img>
-<img src="/Screenshot_1.png" width="18%"></img>
+## Mobile Screenshots:
+<img src="/Source Code/public/images/site/visuals/mobile-campaign.png" width="18%"></img>
+<img src="/Source Code/public/images/site/visuals/mobile-history.png" width="18%"></img>
+<img src="/Source Code/public/images/site/visuals/mobile-redeem-qr.png" width="18%"></img>
+<img src="/Source Code/public/images/site/visuals/mobile-rewards.png" width="18%"></img>
+
+## Web Screenshots:
+<img src="/Source Code/public/images/site/visuals/clothing-home.png" width="30%"></img>
+<img src="/Source Code/public/images/site/visuals/customers.png" width="30%"></img>
+<img src="/Source Code/public/images/site/visuals/earn-points.png" width="30%"></img>
+<img src="/Source Code/public/images/site/visuals/gadget-home.png" width="30%"></img>
+<img src="/Source Code/public/images/site/visuals/reseller-website.png" width="30%"></img>
+<img src="/Source Code/public/images/site/visuals/rewards.png" width="30%"></img>
+<img src="/Source Code/public/images/site/visuals/user-homepage.png" width="30%"></img>
 
 ---
 
